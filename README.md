@@ -1,10 +1,10 @@
-## Title: FSBC HW5 - Day
-(description)
+## Title: FSBC HW6 - Weather App
+
 
 ## Deployment
-Web: 
+Web: https://clarenceyg.github.io/fsbcWeatherApp/index.html
 
-Repository: 
+Repository: https://github.com/clarenceyg/fsbcWeatherApp
 
 Author: Clarence Guerrero
 
@@ -36,4 +36,6 @@ THEN I am presented with the last searched city forecast
 ```
 
 ## Stuff done
+1.  create and upload git page
+2.  
 
